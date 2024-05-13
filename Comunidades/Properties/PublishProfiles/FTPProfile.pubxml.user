@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAw9OVTPkB50K9riiIURbH0QAAAAACAAAAAAAQZgAAAAEAACAAAAAobjrqRApVlzWn3dLJFmmQifG/0fx+SiaEwW4Cbk8DRgAAAAAOgAAAAAIAACAAAABIPKJnskJxpxv1duz2yJKc7dmZQmT4KZlC+DtrpVvjAyAAAAA/H4dF2W/5o3r7d+QJHtKMlqTQEZtoXtl9lkjrZ9DF+EAAAAAYiiRbE4zDhLrCr9rHrrlfskqfPLZlPv734FsMeibeqbydz5cIQCWPC9wE4dGYqGxsvvXPFCQkHwxB28FLvOir</EncryptedPassword>
+    <_PublishTargetUrl>ftp://socialcommunitys.somee.com/www.socialcommunitys.somee.com</_PublishTargetUrl>
+    <History>True|2024-05-12T18:37:24.5430453Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/12/2024 13:24:59</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/12/2024 13:24:59</publishTime>
+    </File>
+    <File Include="Comunidades.deps.json">
+      <publishTime>05/12/2024 14:35:38</publishTime>
+    </File>
+    <File Include="Comunidades.dll">
+      <publishTime>05/12/2024 14:35:37</publishTime>
+    </File>
+    <File Include="Comunidades.exe">
+      <publishTime>05/12/2024 14:35:37</publishTime>
+    </File>
+    <File Include="Comunidades.pdb">
+      <publishTime>05/12/2024 14:35:37</publishTime>
+    </File>
+    <File Include="Comunidades.runtimeconfig.json">
+      <publishTime>05/12/2024 14:35:39</publishTime>
+    </File>
+    <File Include="FireSharp.dll">
+      <publishTime>05/10/2016 09:41:26</publishTime>
+    </File>
+    <File Include="Google.Api.CommonProtos.dll">
+      <publishTime>03/14/2024 03:49:40</publishTime>
+    </File>
+    <File Include="Google.Api.Gax.dll">
+      <publishTime>03/25/2024 12:53:08</publishTime>
+    </File>
+    <File Include="Google.Api.Gax.Grpc.dll">
+      <publishTime>03/25/2024 12:53:18</publishTime>
+    </File>
+    <File Include="Google.Apis.Auth.dll">
+      <publishTime>02/22/2024 13:32:28</publishTime>
+    </File>
+    <File Include="Google.Apis.Core.dll">
+      <publishTime>02/22/2024 13:32:24</publishTime>
+    </File>
+    <File Include="Google.Apis.dll">
+      <publishTime>02/22/2024 13:32:26</publishTime>
+    </File>
+    <File Include="Google.Cloud.Firestore.dll">
+      <publishTime>03/27/2024 13:48:50</publishTime>
+    </File>
+    <File Include="Google.Cloud.Firestore.V1.dll">
+      <publishTime>03/27/2024 13:48:44</publishTime>
+    </File>
+    <File Include="Google.Cloud.Location.dll">
+      <publishTime>03/25/2024 14:45:06</publishTime>
+    </File>
+    <File Include="Google.LongRunning.dll">
+      <publishTime>03/25/2024 14:32:20</publishTime>
+    </File>
+    <File Include="Google.Protobuf.dll">
+      <publishTime>11/01/2023 09:40:16</publishTime>
+    </File>
+    <File Include="Grpc.Auth.dll">
+      <publishTime>01/02/2024 12:27:58</publishTime>
+    </File>
+    <File Include="Grpc.Core.Api.dll">
+      <publishTime>01/02/2024 12:28:02</publishTime>
+    </File>
+    <File Include="Grpc.Net.Client.dll">
+      <publishTime>01/02/2024 12:28:06</publishTime>
+    </File>
+    <File Include="Grpc.Net.Common.dll">
+      <publishTime>01/02/2024 12:28:16</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>11/17/2021 23:38:20</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/22/2021 19:47:36</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>04/05/2024 17:03:10</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>04/05/2024 17:02:34</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>04/05/2024 17:02:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>03/30/2021 15:46:46</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>03/30/2021 15:58:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>04/05/2024 17:02:54</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 16:14:12</publishTime>
+    </File>
+    <File Include="Microsoft.Threading.Tasks.dll">
+      <publishTime>04/07/2014 08:26:14</publishTime>
+    </File>
+    <File Include="Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <publishTime>04/07/2014 08:26:14</publishTime>
+    </File>
+    <File Include="Microsoft.Threading.Tasks.Extensions.dll">
+      <publishTime>04/07/2014 08:26:14</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 03:09:54</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Management.dll">
+      <publishTime>05/24/2023 10:48:58</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>01/11/2023 02:48:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>01/11/2023 02:48:24</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>01/11/2023 02:49:02</publishTime>
+    </File>
+    <File Include="System.CodeDom.dll">
+      <publishTime>10/18/2022 12:29:18</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>04/05/2024 17:01:00</publishTime>
+    </File>
+    <File Include="System.Linq.Async.dll">
+      <publishTime>02/01/2022 11:33:00</publishTime>
+    </File>
+    <File Include="System.Management.dll">
+      <publishTime>05/24/2023 10:45:28</publishTime>
+    </File>
+    <File Include="System.Net.Http.Extensions.dll">
+      <publishTime>07/21/2014 09:52:18</publishTime>
+    </File>
+    <File Include="System.Net.Http.Primitives.dll">
+      <publishTime>07/21/2014 09:52:18</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/12/2024 14:35:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

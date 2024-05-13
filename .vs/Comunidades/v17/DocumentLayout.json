@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Comunidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\controllers\\tokenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\controllers\\tokenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\controllers\\reactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\controllers\\reactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|d:\\comunidades\\comunidades\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21533C0-1B11-43BC-87CA-15392E7FCBFE}|Comunidades\\Comunidades.csproj|solutionrelative:comunidades\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Comunidades\\WeatherForecast.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\WeatherForecast.cs",
+              "RelativeToolTip": "Comunidades\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:19:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Comunidades\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:55:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Comunidades\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:55:30.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChannelsController.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Controllers\\ChannelsController.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Controllers\\ChannelsController.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Controllers\\ChannelsController.cs",
+              "RelativeToolTip": "Comunidades\\Controllers\\ChannelsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:43:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Program.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Program.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Program.cs",
+              "RelativeToolTip": "Comunidades\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:28:36.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\appsettings.json",
+              "RelativeDocumentMoniker": "Comunidades\\appsettings.json",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\appsettings.json",
+              "RelativeToolTip": "Comunidades\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T18:42:04.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReactionsController.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Controllers\\ReactionsController.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Controllers\\ReactionsController.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Controllers\\ReactionsController.cs",
+              "RelativeToolTip": "Comunidades\\Controllers\\ReactionsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:47:42.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Comunidades\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:43:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokensController.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Controllers\\TokensController.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Controllers\\TokensController.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Controllers\\TokensController.cs",
+              "RelativeToolTip": "Comunidades\\Controllers\\TokensController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:22:15.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Comunidades\\Comunidades\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Comunidades\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Comunidades\\Comunidades\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Comunidades\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:22:14.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
